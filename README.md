@@ -1,0 +1,1 @@
+# AccessingStaticMethod_in_bean.xml
